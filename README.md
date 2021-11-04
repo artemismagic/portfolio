@@ -20,6 +20,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## URL 
 
-https://github.com/artemismagic/homework_2
+https://github.com/artemismagic/portfolio
 
-https://artemismagic.github.io/homework_2/
+https://artemismagic.github.io/portfolio/
