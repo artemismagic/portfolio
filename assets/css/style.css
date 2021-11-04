@@ -1,7 +1,3 @@
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   font-size: 16px;
   display: flex;
@@ -17,54 +13,18 @@ h1 {
   letter-spacing: .15em;
 }
 
-header {
- /* Adjust as needed */
-  font-family: "Lucida Console", "Courier New", monospace;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  padding-top: 5%;
-  animation: 
-  typing 3s steps(30, end),
-  blink-caret .3s step-end infinite;
-  padding: 3%;
-  text-align: center;
-}
-
-
-/* The typing effect */
-@keyframes typing {
-  from { width: 5% }
-  to { width: 100% }
-}
-
-
 h2 {
   font-size: 1.5rem;
   margin-bottom: 10px;
 }
 
-
-
 .topNav {
-  padding-top: 25%;
-  float: left;
-  list-style-type: none;
-  position: fixed;
-  text-decoration: bold;
+  font-size: 16px;
+  display: flex;
 }
 
-.topNav a {
-  display: block;
-  color: #000;
-  padding: 100%;
-  text-decoration: none;
-  text-align: left;
-}
 
-/* Change the link color on hover */
-.topNav a:hover {
-  background-color: #555;
-  color: white;
-}
+
 
 .header {
   padding: 1%;
